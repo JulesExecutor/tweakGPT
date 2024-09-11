@@ -1,0 +1,4 @@
+TID: 1
+CMD: say
+ARG: 1
+ACTION: You must say arg 1, if arg 1 is not provided, say "Arg is required"
